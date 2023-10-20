@@ -1,0 +1,7 @@
+gymnasium==0.29.1
+numpy==1.26.1
+pandas==2.1.1
+pyboy==1.5.6
+pyensign==0.11b0
+python-ulid==2.2.0
+stable-baselines3==2.1.0
